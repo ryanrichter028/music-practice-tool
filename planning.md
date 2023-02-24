@@ -28,3 +28,10 @@ how steady the timbre is (based on fourier transform)
 
 challenges:
 follow a volume or pitch (bend) curve
+
+
+
+
+
+OTHER THINGS TODO
+ALSA output suppression
